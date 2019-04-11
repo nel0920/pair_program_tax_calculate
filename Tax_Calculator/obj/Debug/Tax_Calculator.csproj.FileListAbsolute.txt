@@ -1,0 +1,10 @@
+C:\Users\UseN\source\repos\Tax_Calculator\Tax_Calculator\obj\Debug\Tax_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\UseN\source\repos\Tax_Calculator\Tax_Calculator\bin\Debug\ConsoleApp1.exe.config
+C:\Users\UseN\source\repos\Tax_Calculator\Tax_Calculator\bin\Debug\ConsoleApp1.exe
+C:\Users\UseN\source\repos\Tax_Calculator\Tax_Calculator\bin\Debug\ConsoleApp1.pdb
+C:\Users\UseN\source\repos\Tax_Calculator\Tax_Calculator\obj\Debug\ConsoleApp1.exe
+C:\Users\UseN\source\repos\Tax_Calculator\Tax_Calculator\obj\Debug\ConsoleApp1.pdb
+C:\Users\UseN\source\repos\Tax_Calculator\Tax_Calculator\bin\Debug\ConsoleApp1.exe.manifest
+C:\Users\UseN\source\repos\Tax_Calculator\Tax_Calculator\bin\Debug\ConsoleApp1.application
+C:\Users\UseN\source\repos\Tax_Calculator\Tax_Calculator\obj\Debug\ConsoleApp1.exe.manifest
+C:\Users\UseN\source\repos\Tax_Calculator\Tax_Calculator\obj\Debug\ConsoleApp1.application
